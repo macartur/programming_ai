@@ -1,6 +1,9 @@
-Programming AI
-----
+# Programming AI
 
-sat solver in python:
-  sudoku
-  n-queens
+Install dependencies:
+---
+  ```$ pip install pycosat```
+
+Running:
+---
+  ```$ python file.py ```
